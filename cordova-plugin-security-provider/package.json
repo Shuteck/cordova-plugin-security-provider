@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-security-provider",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-security-provider",
+    "platforms": ["android", "ios"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuteck/cordova-plugin-security-provider.git"
+  },
+  "keywords": ["cordova", "security", "provider", "cordova-ios", "cordova-android"],
+  "description": "Cordova Plugin for managing security provider",
+  "author": "Carlos Silveira - CommonMS",
+  "license": "MIT"
+}
